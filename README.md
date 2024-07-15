@@ -19,6 +19,7 @@
 - 2023-09-07 ~ 2023-11-17
 
 ### 기술스택
-![image](https://github.com/Isonade2/MoramMoram-back/assets/67320022/511d7d9d-55e6-4dd8-8818-ea76cb087479)
+![image](https://github.com/user-attachments/assets/99b9660c-bb87-44a6-a20b-2c6d1e98c797)
+
 
 
